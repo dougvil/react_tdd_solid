@@ -1,0 +1,8 @@
+{
+  "name": "react_tdd_solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dougvil/react_tdd_solid.git",
+  "author": "Douglas Viliano <dougvil@msn.com>",
+  "license": "MIT"
+}
